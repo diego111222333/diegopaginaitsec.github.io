@@ -69,6 +69,7 @@ nav ul li {
     border-radius: 15px;
     background-color: blue;
     border: 2px solid gold;
+    color: white;
 }
 nav ul li:hover{
     background-color: rgb(209, 83, 10);
